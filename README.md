@@ -1,5 +1,38 @@
-# Vue 3 + TypeScript + Vite
+# Ares-Site
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+**Ares-Site** — коммерческий фронтенд-проект, разработанный на **Vue 3** с использованием **Vite** и **Tailwind CSS**.  
+Основная цель — создать современный, адаптивный и визуально выразительный интерфейс с чистой архитектурой и лёгкой поддержкой.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+
+##  Технологии
+
+- **Vue 3 (Composition API)** — основа приложения  
+- **Vite** — сборка и dev-сервер  
+- **Tailwind CSS** — оформление и адаптивная вёрстка  
+- **Pinia** — управление состоянием  
+- **TypeScript** *(опционально)* — типизация и надёжность кода  
+
+---
+
+##  Структура проекта
+
+
+---
+
+## Основные возможности
+
+- Современная компонентная архитектура  
+- Адаптивный интерфейс под мобильные и десктопные устройства  
+- Чистая структура проекта и переиспользуемые модули  
+- Анимации и микроинтеракции для улучшения UX  
+- Оптимизированная производительность и минимальный размер сборки  
+
+---
+
+##  Запуск проекта
+
+```bash
+git clone https://github.com/m1ke1994/Ares-Site.git
+cd Ares-Site
+npm install
+npm run dev
